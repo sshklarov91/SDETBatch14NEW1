@@ -12,7 +12,7 @@ public class Animal {
         System.out.println("Grass and meat");
     }
 }
-class Cat extends Animal{
+class Cat1 extends Animal{
     void sleep(){
         System.out.println("i like to sleep for 20 hours");
     }
@@ -21,7 +21,7 @@ class Cat extends Animal{
     }
 }
 
-class Dog extends Animal{
+class Dog1 extends Animal{
     void sleep(){
         System.out.println("i like to sleep for 10 hours");
     }

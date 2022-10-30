@@ -2,9 +2,9 @@ package Class21;
 
 public class AnimalTester {
     public static void main(String[] args) {
-        Cat cat = new Cat();
+        Cat1 cat = new Cat1();
         cat.eat();
-        Dog dog=new Dog();
+        Dog1 dog=new Dog1();
         dog.eat();
     }
 }

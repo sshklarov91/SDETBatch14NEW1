@@ -20,4 +20,6 @@ public class Horse extends Animal {
         horseObject.printInfo();
     }
 
+    public void printInfo() {
+    }
 }
